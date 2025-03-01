@@ -74,7 +74,3 @@ That's it!
 ### User Functions
 
 - Transfer Private: `leo run transfer_private [TOKEN_RECORD] [SPEND_LIMIT_RECORD] [AMOUNT] [RECIPIENT] [EPOCH]`
-
-## Example Output
-
-[Example outputs for each function as in your original README]
